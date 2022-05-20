@@ -14,15 +14,15 @@
 </p>
 
 <div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wdsagor&theme=dark&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=currStreakLabel" alt="WD-Sagor" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wdsagor&theme=light&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=currStreakLabel" alt="WD-Sagor" />
 </div>
 <table width="100%">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdsagor&show_icons=true&hide_border=true&count_private=true&theme=dark" /> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdsagor&show_icons=true&hide_border=true&count_private=true&theme=light" /> 
     </td>
     <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsagor&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dark"/> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsagor&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=light"/> 
     </td>
   </tr>
 <table>
