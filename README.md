@@ -14,15 +14,15 @@
 </p>
 
 <div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wdsagor&theme=light&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=currStreakLabel" alt="WD-Sagor" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wdsagor&hide_border=true&date_format=M+j%5B%2C+Y%5D&properties=currStreakLabel" alt="WD-Sagor" />
 </div>
 <table width="100%">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdsagor&show_icons=true&hide_border=true&count_private=true" /> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdsagor&show_icons=true&hide_border=false&count_private=true" /> 
     </td>
     <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsagor&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsagor&show_icons=true&hide_border=false&layout=compact&langs_count=8"/> 
     </td>
   </tr>
 <table>
@@ -37,9 +37,9 @@
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 </div>
- </br>
+</br>
 <div style="display: flex;">
-  <div style="width: 100%; margin-top:50px" align="center">
+  <div style="width: 100%; margin-top:50px; padding-bottom: 50px;" align="center">
     
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](<!--- https://www.linkedin.com/in/ --->)
 &nbsp; [![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](<!--- https://facebook.com/ --->)
