@@ -19,10 +19,10 @@
 <table width="100%">
   <tr>
     <td>
-      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdsagor&show_icons=true&hide_border=true&count_private=true&theme=light" /> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api?username=wdsagor&show_icons=true&hide_border=true&count_private=true" /> 
     </td>
     <td> 
-      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsagor&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=light"/> 
+      <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wdsagor&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
     </td>
   </tr>
 <table>
