@@ -14,8 +14,8 @@
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="firebase" width="40" height="40"/> </a>
 </p>
 
-<div >
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=wdsagor&hide_border=true&type=png" alt="GitHub Streak" /></a>
+<div style="width: 100%;" align="center" >
+<img src="https://github-readme-streak-stats.herokuapp.com?user=wdsagor&hide_border=true&type=png" alt="GitHub Streak" />
 </div>
 <table width="100%">
   <tr>
