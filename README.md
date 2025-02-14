@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">I'm Junior Web Developer</h3>
+<h3 align="center">MERN Stack Web Developer</h3>
 <h3 align="center">also thinking unique idea</h3>
 <br/>
 <p align="center">
