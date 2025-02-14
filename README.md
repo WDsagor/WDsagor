@@ -15,7 +15,7 @@
 </p>
 
 <div style="width: 100%;" align="center">
-<img  src="https://github-readme-streak-stats.herokuapp.com?user=wdsagor&theme=dark&hide_border=true&background=45%2C00FFCA%2C000000" alt="WD-Sagor" />
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=wdsagor&hide_border=true" alt="GitHub Streak" />
 </div>
 <table width="100%">
   <tr>
